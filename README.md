@@ -1,0 +1,2 @@
+# DiscordTheme
+Help me have Ideas visit me on :discord.me/TankHordTheme ,Installation Instructions 1. Installing BetterDiscord The installation is different depending on which operating system you are on. Visit BetterDiscord.net and read the BetterDiscord Wiki for installation instructions. If you have any questions, join the BetterDiscord Discord server. 2. Downloading the Theme Click on "DiscordTheme" File and Click on ClearVision_Example.css and copy the text 3. Enable the Theme go on discord then go in user settings and custom CSS and paste the CSS Text
