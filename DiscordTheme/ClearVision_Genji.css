@@ -1,0 +1,53 @@
+//META{"name":"ClearVision_Genji","description":"a Genji Background for overwatch fans based on ClearVision_Emrald ","author":"TankHord","version":"1"}*//{}
+/* "ClearVision - Genji v1" by @TankHord */
+/* Based on "ClearVision_Emrald" by @Zerthox */
+
+/* IMPORT CSS FROM GITHUB */
+@import url(https://zerthox.github.io/ClearVision/css/ClearVision_v5.min.css);
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+================ IMPORTANT LINKS =================
+Github: https://git.io/v6BHO
+Discord: https://git.io/vMnlu
+Wiki: https://git.io/vXTqM
+Latest version: https://git.io/v6Muk
+Changelog: https://git.io/v6r5N
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+============== CUSTOMIZABLE COLORS ===============
+*/
+:root {
+	--main-color: #33cc33;
+	--hover-color: #0a290a;
+    --background-blur: 0px;
+    --background-brightness: 100%;
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+========= CUSTOMIZABLE BACKGROUND IMAGE ==========
+*/
+body::after,
+.callout-backdrop,
+.userPopout-4pfA0d::before,
+.root-2sNHUF::before,
+#pubs-container::before,
+.auth-background,
+.auth-tiling-bg,
+.invite-modal .invite-splash,
+.radio-theme.light label,
+.radio-theme.dark label {
+    background-image: url(https://i.imgur.com/VjKRGSp.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
